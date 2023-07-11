@@ -91,6 +91,13 @@ h1{
     /* background-color: red; */
 }
 
+.footer1{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-family: 'Prompt', sans-serif;
+    /* background-color: red; */
+}
+
 .titlefooter{
     font-size: 25px;
 }
